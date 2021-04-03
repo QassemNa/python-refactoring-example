@@ -1,4 +1,4 @@
-class Test:
+class Test1:
     def calculate_print0(a,b):
         sum = a+b
         multi = a*b
